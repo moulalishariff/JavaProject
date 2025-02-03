@@ -14,6 +14,10 @@ public class testInterface implements test {
 		
 		
 	}
+	public void Entryform() {
+		System.out.println("Change made by Developer 2 ");
+		
+	}
 	public static void main(String[] args) {
 		
 
